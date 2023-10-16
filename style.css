@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    padding: 50px;
+
+}
+
+.first-left {
+    width: 50%;
+    margin-top: 250px;
+}
+
+.title {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.paragraph {
+    margin-bottom: 20px;
+}
+
+.primary-btn {
+    color: #fff;
+    background-color: #E55473;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.first-right {
+    width: 50%;
+}
