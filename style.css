@@ -54,18 +54,24 @@
 
 .one-featured {
     background-color: #FCEEF1;
-    padding: 40px;
+    padding: 150px 30px 30px 30px;
     border-radius: 250px 250px 5px 5px;
 }
 
 .two-featured {
     background-color: #FCEEF1;
-    padding: 40px;
+    padding: 150px 30px 30px 30px;
     border-radius: 250px 250px 5px 5px;
 }
 
 .three-featured {
     background-color: #FCEEF1;
-    padding: 40px;
+    padding: 150px 30px 30px 30px;
     border-radius: 250px 250px 5px 5px;
+}
+
+.pink-flower {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -60px;
 }
