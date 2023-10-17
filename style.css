@@ -139,7 +139,7 @@
 /* six section from here */
 
 .six-section {
-    background-image: url(/pics/img\ \(13\).png);
+    background-image: url(/pics/img_banner.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -191,3 +191,5 @@
 .paragraph {
     margin-top: 20px;
 }
+
+/* ################################ */
