@@ -4,9 +4,10 @@
 }
 
 .hero {
+    background-color: #FCEEF1;
     display: flex;
     justify-content: center;
-    margin: 50px;
+    /* margin: 50px; */
     padding: 50px;
 
 }
@@ -34,4 +35,26 @@
 
 .first-right {
     width: 50%;
+}
+
+/* second section start from here */
+
+.features {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.featured-all {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    padding: 30px;
+}
+
+.one-featured {
+    background-color: #FCEEF1;
+
+
+
 }
