@@ -122,3 +122,16 @@
     border: 1px solid transparent;
     border-radius: 5px;
 }
+
+/* fifth section start from here */
+
+.fifth-description {
+    text-align: center;
+}
+
+.group-img {
+    display: flex;
+    margin: 80px;
+    padding: 50px;
+    justify-content: space-evenly;
+}
