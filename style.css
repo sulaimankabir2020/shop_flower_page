@@ -139,7 +139,7 @@
 /* six section from here */
 
 .six-section {
-    background-image: url('/pics/banner.png');
+    background-image: url('./pics/banner.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
