@@ -47,14 +47,25 @@
 
 .featured-all {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin: 50px;
     padding: 30px;
 }
 
 .one-featured {
     background-color: #FCEEF1;
+    padding: 40px;
+    border-radius: 250px 250px 5px 5px;
+}
 
+.two-featured {
+    background-color: #FCEEF1;
+    padding: 40px;
+    border-radius: 250px 250px 5px 5px;
+}
 
-
+.three-featured {
+    background-color: #FCEEF1;
+    padding: 40px;
+    border-radius: 250px 250px 5px 5px;
 }
