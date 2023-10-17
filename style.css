@@ -135,3 +135,35 @@
     padding: 50px;
     justify-content: space-evenly;
 }
+
+/* six section from here */
+
+.six-section {
+    background-image: url(/pics/img\ \(13\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 80px;
+    padding: 50px;
+
+}
+
+.six-description {
+    text-align: center;
+    padding: 80px;
+}
+
+.six-description input {
+    margin: 20px;
+    padding: 10px 80px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    ;
+}
+
+.six-description button {
+    padding: 10px;
+    color: #F4F4F4;
+    background-color: #E55473;
+    border: 1px solid transparent;
+    border-radius: 5px;
